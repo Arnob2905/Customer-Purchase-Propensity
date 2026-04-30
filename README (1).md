@@ -189,7 +189,7 @@ jupyter notebook Data_Preprocessing.ipynb
 
 ## 👤 Author
 
-**Your Name**  
+**Arnob Maity**  
 Data Science Project — Data Preprocessing & Feature Engineering  
 
 ---
